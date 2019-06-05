@@ -4,9 +4,6 @@
 # 项目说明
 
 - **基于微信小程序开发的一款移动端电商**
-- **基于 weui.wxss、es6 前端技术开发**
-- **前台[wxbestcake-master](https://github.com/kuhami/wxbestcake-master)**
-
 ## 目录结构
 
   ```
@@ -24,13 +21,7 @@
        |-...
  ```
       
-## Usage
 
-```bash
-$ git clone https://github.com/kuhami/wxbestcake-master.git
-$ cd wxbestcake-master
-//导入微信开发者工具就可以啦
-```
 ## 商城截图
 
 <p><a target="_blank" href="https://github.com/kuhami/wxbestcake-master/blob/master/icon/Capture7.jpeg"><img src="https://raw.githubusercontent.com/kuhami/wxbestcake-master/master/icon/Capture7.jpeg" width="375px" style="max-width:100%;"></a></p>
